@@ -1,0 +1,34 @@
+@import url(reset.css);
+
+.logo{
+   color: red;
+}
+.text p {
+   color: violet;
+}
+.history p{ 
+   color: aqua;
+}
+h2{
+   color: blue;
+}
+
+.functions{
+   color: coral;
+}
+
+[class*="players"] {
+   color: chartreuse;
+}
+
+.colours,
+.stadium{
+   color: darkcyan;
+}
+.home-page{
+   color: red;
+}
+
+.footer{
+   color: deeppink;
+}
