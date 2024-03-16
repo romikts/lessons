@@ -1,0 +1,52 @@
+@import url(reset.css);
+*{
+   background-color: lightgray;
+}
+span{
+   color: sienna;
+}
+h1{
+   color: red;
+}
+.title a{
+   color: green;
+}
+.title{
+   color: blueviolet;
+}
+#new-id {
+   color: red;
+}
+.kyiv {
+   color: salmon;
+}
+.lviv{
+color: blue;
+}
+.lviv h2 {
+   color: cadetblue;
+}
+.karpaty > ul { 
+   color: blueviolet;
+}
+[class*="karp"] {
+   color: green;
+}
+.odesa h2 {
+   color: blueviolet;
+}
+.odesa{
+   color: brown;
+}
+.cherkasy{
+   color: cadetblue;
+}
+.cherkasy h2 {
+   color: blueviolet;
+}
+.info {
+   color: blueviolet;
+}
+.info a {
+   color: blue;
+}
